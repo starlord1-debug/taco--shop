@@ -1,0 +1,80 @@
+.user_test1{
+    color: brown;
+    text-align: center;
+    background-color: aqua;
+    /* in heading of hours html  */
+ } 
+.user_test2{
+    color: blue;
+    text-align: center;
+    background-color: beige;
+    /* in copy rights of hour.html */
+}
+#user-test3{
+    color: black;
+    width: 400;
+    /* in hours.html for <hr> */
+}
+#md-test4{
+    text-align: center;
+    width: 90;
+    height: 80;
+    /* in hours.html for img */
+    background-position: 50% 50%;
+}
+.mo-test5{
+    color: rgb(1, 1, 1);
+    text-align: center;
+    background-color: bisque;
+    background-image: url(../css/pexels-dana-tentis-118658-370799.jpg);
+    width: 200;
+    background-attachment: fixed;
+    /* in the headers of contacts.html */
+    background-repeat: repeat;
+}
+.star-test6{
+    color: blue;
+    background-color:aqua;
+    text-align: center;
+    /* for copy rights in contact.html */
+}
+nav{
+    background-image: url(../css/pexels-jplenio-1103970.jpg);
+    color: black;
+}
+.index-test7{
+    text-align: center;
+    background-image: url(../css/pexels-dana-tentis-118658-370799.jpg);
+}
+.user_test8{
+    text-align: center;
+    background-color: aquamarine;
+}
+p{
+    background-color: aquamarine;
+}
+.table-rest9{
+    text-align: center;
+    background-color: aqua;
+}
+.test10{
+    text-align: center;
+}
+.test11{
+    text-align: center;
+}
+.user-test12{
+    background-size: cover;
+}
+.test13{
+    background-image: url(../css/pexels-dana-tentis-118658-370799.jpg);
+    color: color-mix(in srgb, red 40%, orange 60%);
+    /*this for the time table colourings*/
+    text-align: center;
+}
+#md14{
+    text-align: center;
+}
+.test15{
+    text-align: center;
+}
